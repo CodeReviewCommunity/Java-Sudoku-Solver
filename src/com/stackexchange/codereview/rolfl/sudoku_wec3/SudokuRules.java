@@ -1,4 +1,4 @@
-package com.stackexchange.codreview.rolfl.sudoku_wec3;
+package com.stackexchange.codereview.rolfl.sudoku_wec3;
 
 public class SudokuRules {
     public static final char[] DIGITCHARS = "123456789ABCFEDGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz".toCharArray();

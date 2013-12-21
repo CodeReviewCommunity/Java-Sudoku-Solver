@@ -1,6 +1,6 @@
-package com.stackexchange.codreview.rolfl.sudoku_wec3;
+package com.stackexchange.codereview.rolfl.sudoku_wec3;
 
-import com.stackexchange.codreview.rolfl.sudoku_wec3.brute.RecursiveBruteSolver;
+import com.stackexchange.codereview.rolfl.sudoku_wec3.brute.RecursiveBruteSolver;
 
 public class StrategyBruteForce  implements SudokuStrategy {
 

@@ -1,4 +1,4 @@
-package com.stackexchange.codreview.rolfl.sudoku_wec3.brute;
+package com.stackexchange.codereview.rolfl.sudoku_wec3.brute;
 
 import java.util.Arrays;
 

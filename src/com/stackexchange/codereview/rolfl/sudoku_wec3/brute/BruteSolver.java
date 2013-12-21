@@ -1,10 +1,10 @@
-package com.stackexchange.codreview.rolfl.sudoku_wec3.brute;
+package com.stackexchange.codereview.rolfl.sudoku_wec3.brute;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import com.stackexchange.codreview.rolfl.sudoku_wec3.DigitSet;
+import com.stackexchange.codereview.rolfl.sudoku_wec3.DigitSet;
 
 public class BruteSolver {
     

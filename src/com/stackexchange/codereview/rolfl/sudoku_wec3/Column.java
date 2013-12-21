@@ -1,4 +1,4 @@
-package com.stackexchange.codreview.rolfl.sudoku_wec3;
+package com.stackexchange.codereview.rolfl.sudoku_wec3;
 
 public class Column extends GroupRelated {
 

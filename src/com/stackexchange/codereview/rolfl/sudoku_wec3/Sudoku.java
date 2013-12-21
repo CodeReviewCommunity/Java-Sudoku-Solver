@@ -1,4 +1,4 @@
-package com.stackexchange.codreview.rolfl.sudoku_wec3;
+package com.stackexchange.codereview.rolfl.sudoku_wec3;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;

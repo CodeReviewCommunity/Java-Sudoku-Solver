@@ -1,4 +1,4 @@
-package com.stackexchange.codreview.rolfl.sudoku_wec3;
+package com.stackexchange.codereview.rolfl.sudoku_wec3;
 
 public enum Source {
     Puzzle(true), Unknown(false), Player(false), Strategy(false), Guess(false), Force(false); 
